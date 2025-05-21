@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Autoriser l'indexation complète du site
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap
+Sitemap: https://occlean.fr/sitemap.xml
